@@ -11,7 +11,7 @@
 
 <h4>Konfigurasi Alat</h4>
 <p>kita akan melakukan persiapan alat alatnya terlebih dahulu sebelum melakukan konfigurasi mikrotik</p>
-1. installasi virtualisasi [virtualmechine](virtualMechine.md)
+1. installasi virtualisasi [virtualmechine](virtualMechine Setup.md)
 2. installasi winbox [winbox]()
 
 
