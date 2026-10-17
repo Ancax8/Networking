@@ -12,7 +12,7 @@
 <h4>Konfigurasi Alat</h4>
 <p>kita akan melakukan persiapan alat alatnya terlebih dahulu sebelum melakukan konfigurasi mikrotik</p>
 
-1. installasi virtualisasi [virtualmechine](vitualMechineSetup.md)
+1. installasi virtualisasi [virtualmechine](vitualMechine_Setup.md)
 
 
 <h4>Konfigurasi jaringan</h4>
