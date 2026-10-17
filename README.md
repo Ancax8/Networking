@@ -9,4 +9,13 @@
 3. iso chr RouterBoard: [router](https://download.mikrotik.com/routeros/7.23.8/chr-7.23.8.ova)
 4. iso windows7: [windows 7](https://archive.org/download/windows-7-iso-/Win7Pro32bit.iso)
 
+<h4>Konfigurasi Alat</h4>
+<p>kita akan melakukan persiapan alat alatnya terlebih dahulu sebelum melakukan konfigurasi mikrotik</p>
+1. installasi virtualisasi [virtualmechine]()
+2. installasi winbox [winbox]()
+
+
+<h4>Konfigurasi jaringan</h4>
+<p>sekarang kita mulai konfigurasi mikrotiknya dengan virtualisasi</p>
+
 
